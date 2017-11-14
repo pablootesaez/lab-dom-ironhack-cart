@@ -1,11 +1,10 @@
-function deleteItem(e){
+.function deleteItem(e){
 
 }
 
 function getPriceByProduct(itemNode){
 
 }
-
 function updatePriceByProduct(productPrice, index){
 
 }
